@@ -1,16 +1,46 @@
-## Hi there 👋
+### Hey 👋, Ishita this side!
 
-<!--
-**Ishitapathunda/ishitapathunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year Geophysics undergrad at **IIT Kharagpur**  
+💻 Aspiring Software Developer | Exploring the world of Machine Learning & DSA  
+🌱 Currently learning: MERN Stack, Python (Pandas, NumPy, Matplotlib), and Web Development  
+🧠 Passionate about building tech that solves real-world problems  
+🚀 Building: GeoExplorer – a geoscience data visualization web app  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools:
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📌 Projects
+
+- 🔗 [**student-enrollment-form**](https://github.com/Ishitapathunda/student-enrollment-form) – A responsive web-based student enrollment form using JavaScript.
+- 💬 [**Chatapplication**](https://github.com/Ishitapathunda/Chatapplication) – Console-based chat app developed in C++.
+- 📈 [**competitive-trainer**](https://github.com/Ishitapathunda/competitive-trainer) – Tool to practice and improve DSA skills in C++.
+- 😊 [**mood_predictor**](https://github.com/Ishitapathunda/mood_predictor) – A Python ML model that predicts mood from text.
+- 🛒 [**softsell-site**](https://github.com/Ishitapathunda/softsell-site) – A website for software sales built with HTML, CSS, JS.
+- 🌐 [**ishita-pathundaportfolio**](https://github.com/Ishitapathunda/ishita-pathundaportfolio) – My personal portfolio website showcasing skills & projects.
+
+---
+
+### 🤝 I’m open to:
+- Internship opportunities in software development, ML, or data science  
+- Collaborating on open-source or full-stack projects  
+- Learning from developers, mentors & new experiences
+
+---
+
+### 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-pathunda-8ab902215/)  
+📧 **Email**: ishitapathunda@gmail.com  
