@@ -1,4 +1,4 @@
-### Hey 👋, Ishita this side!
+ ### Hey 👋, Ishita this side!
 
 🎓 I'm a 3rd-year Geophysics undergrad at **IIT Kharagpur**  
 💻 Aspiring Software Developer | Exploring the world of Machine Learning & DSA  
@@ -41,6 +41,25 @@
 
 ---
 
-### 📫 How to reach me:
+### 📊 GitHub Stats:
+
+![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishitapathunda&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishitapathunda&layout=compact&theme=radical)
+
+---
+
+### 📈 Contribution Graph:
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishitapathunda&theme=github-compact)
+
+---
+
+### 🔄 Profile Views:
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ishitapathunda&color=blue&style=flat)
+
+---
+
+### 📫 Reach me at:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-pathunda-8ab902215/)  
 📧 **Email**: ishitapathunda@gmail.com  
