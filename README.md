@@ -3,8 +3,7 @@
 🎓 I'm a 3rd-year Geophysics undergrad at **IIT Kharagpur**  
 💻 Aspiring Software Developer | Exploring the world of Machine Learning & DSA  
 🌱 Currently learning: MERN Stack, Python (Pandas, NumPy, Matplotlib), and Web Development  
-🧠 Passionate about building tech that solves real-world problems  
-🚀 Building: GeoExplorer – a geoscience data visualization web app  
+🧠 Passionate about building tech that solves real-world problems   
 
 ---
 
@@ -25,6 +24,7 @@
 
 ### 📌 Projects
 
+- 🔗 [**Employee Form using JsonPowerDB**](https://github.com/Ishitapathunda/Employee-Form-with-Navigation-and-Control-Buttons) – A responsive web-based Employee Form application built using HTML, CSS, Bootstrap, and JavaScript.
 - 🔗 [**student-enrollment-form**](https://github.com/Ishitapathunda/student-enrollment-form) – A responsive web-based student enrollment form using JavaScript.
 - 💬 [**Chatapplication**](https://github.com/Ishitapathunda/Chatapplication) – Console-based chat app developed in C++.
 - 📈 [**competitive-trainer**](https://github.com/Ishitapathunda/competitive-trainer) – Tool to practice and improve DSA skills in C++.
