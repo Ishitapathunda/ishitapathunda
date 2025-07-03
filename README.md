@@ -25,19 +25,12 @@
 ### 📌 Projects
 
 - 🔗 [**Employee Form using JsonPowerDB**](https://github.com/Ishitapathunda/Employee-Form-with-Navigation-and-Control-Buttons) – A responsive web-based Employee Form application built using HTML, CSS, Bootstrap, and JavaScript.
-- 🔗 [**student-enrollment-form**](https://github.com/Ishitapathunda/student-enrollment-form) – A responsive web-based student enrollment form using JavaScript.
+- 🔗 [**Raw Material Inventory Management System**](https://github.com/Ishitapathunda/Raw-Material-Inventory) – This is a single-page web application developed to manage the inventory of raw materials for a manufacturing unit.
 - 💬 [**Chatapplication**](https://github.com/Ishitapathunda/Chatapplication) – Console-based chat app developed in C++.
 - 📈 [**competitive-trainer**](https://github.com/Ishitapathunda/competitive-trainer) – Tool to practice and improve DSA skills in C++.
 - 😊 [**mood_predictor**](https://github.com/Ishitapathunda/mood_predictor) – A Python ML model that predicts mood from text.
 - 🛒 [**softsell-site**](https://github.com/Ishitapathunda/softsell-site) – A website for software sales built with HTML, CSS, JS.
 - 🌐 [**ishita-pathundaportfolio**](https://github.com/Ishitapathunda/ishita-pathundaportfolio) – My personal portfolio website showcasing skills & projects.
-
----
-
-### 🤝 I’m open to:
-- Internship opportunities in software development, ML, or data science  
-- Collaborating on open-source or full-stack projects  
-- Learning from developers, mentors & new experiences
 
 ---
 
