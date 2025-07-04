@@ -24,6 +24,7 @@
 
 ### 📌 Projects
 
+- 🔗 [**DSA learning Website**](https://github.com/Ishitapathunda/DSA-Learning-Web) – a beginner-friendly platform to learn Data Structures and Algorithms with step-by-step tutorials, curated examples, and practice problems.
 - 🔗 [**Employee Form using JsonPowerDB**](https://github.com/Ishitapathunda/Employee-Form-with-Navigation-and-Control-Buttons) – A responsive web-based Employee Form application built using HTML, CSS, Bootstrap, and JavaScript.
 - 🔗 [**Raw Material Inventory Management System**](https://github.com/Ishitapathunda/Raw-Material-Inventory) – This is a single-page web application developed to manage the inventory of raw materials for a manufacturing unit.
 - 💬 [**Chatapplication**](https://github.com/Ishitapathunda/Chatapplication) – Console-based chat app developed in C++.
